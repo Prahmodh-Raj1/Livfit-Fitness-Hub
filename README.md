@@ -9,6 +9,10 @@ A Full Stack Web Application that focuses on easing the fitness experience of us
 
 ---
 
+## Tech Stack Used
+
+---
+
 ## Features
 
 ---
